@@ -1,0 +1,32 @@
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe.config
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.pdb
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Form1.resources
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Properties.Resources.resources
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.exe
+C:\Users\hp\Desktop\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.pdb
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe.config
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.pdb
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.AssemblyReference.cache
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.SuggestedBindingRedirects.cache
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Form1.resources
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Properties.Resources.resources
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.GenerateResource.cache
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.CoreCompileInputs.cache
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.exe
+E:\ПРВ_Задание_1\ПРВ_Первое_задание_тредс\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.pdb
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe.config
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.exe
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\bin\Debug\Тредс_Сортировки.pdb
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.SuggestedBindingRedirects.cache
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Form1.resources
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.Properties.Resources.resources
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.GenerateResource.cache
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.exe
+C:\Users\missa\OneDrive\Рабочий стол\Тредс_Сортировки\obj\Debug\Тредс_Сортировки.pdb
